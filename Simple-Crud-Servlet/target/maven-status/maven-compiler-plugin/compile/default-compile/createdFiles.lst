@@ -1,0 +1,7 @@
+com\cherradi\ensah\controllers\LoginController.class
+com\cherradi\ensah\test\TestUserDAO.class
+com\cherradi\ensah\dao\ImpUserDAO.class
+com\cherradi\ensah\test\TestConnection.class
+com\cherradi\ensah\dao\IUserDAO.class
+com\cherradi\ensah\utils\JDBCUtils.class
+com\cherradi\ensah\entities\User.class
