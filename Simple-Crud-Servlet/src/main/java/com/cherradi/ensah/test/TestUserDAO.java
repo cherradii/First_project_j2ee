@@ -7,6 +7,16 @@ import com.cherradi.ensah.dao.IUserDAO;
 import com.cherradi.ensah.dao.ImpUserDAO;
 import com.cherradi.ensah.entities.User;
 
+/**
+ * The second thing we want to verify after connection with database is the dao layer
+ * because when we move to the web layer you are sure all business operation work fine.
+ * 
+ * @author = CHERRADI Mohamed
+ * 
+ * @email = med1995cherradi@gmail.com
+ * 
+ */
+
 public class TestUserDAO {
 	
 	

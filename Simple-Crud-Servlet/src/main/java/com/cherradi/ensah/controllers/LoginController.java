@@ -16,7 +16,7 @@ import com.cherradi.ensah.dao.IUserDAO;
 import com.cherradi.ensah.dao.ImpUserDAO;
 import com.cherradi.ensah.entities.User;
 
-/*
+/**
  * This java class acts as a page controller for the application, handling all requests from the user.
  * 
  * @author = CHERRADI Mohamed

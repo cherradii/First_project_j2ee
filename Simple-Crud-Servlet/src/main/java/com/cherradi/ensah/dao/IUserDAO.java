@@ -5,7 +5,7 @@ import java.util.List;
 import com.cherradi.ensah.entities.User;
 
 
-/*
+/**
  * 
  * This interface describe contract between client and developer, often contains crud operation
  * business functionalities defined in service layer.

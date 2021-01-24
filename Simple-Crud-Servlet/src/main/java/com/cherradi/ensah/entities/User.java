@@ -2,7 +2,7 @@ package com.cherradi.ensah.entities;
 
 import java.io.Serializable;
 
-/*
+/**
  * 
  * This is a model class represents user entity or java bean
  * 

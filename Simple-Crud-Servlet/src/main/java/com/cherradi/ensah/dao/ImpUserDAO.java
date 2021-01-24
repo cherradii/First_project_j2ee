@@ -11,7 +11,7 @@ import com.cherradi.ensah.utils.JDBCUtils;
 import com.mysql.jdbc.PreparedStatement;
 
 
-/*
+/**
  * 
  * The jdbc version implementation of the specification or the contract defined in dao interface.
  * we can use other implementation such as hibernate, jpa, ejb, spring data, etc.

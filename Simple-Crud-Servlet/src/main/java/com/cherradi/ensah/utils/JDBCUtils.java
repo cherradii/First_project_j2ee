@@ -3,6 +3,15 @@ package com.cherradi.ensah.utils;
 import java.sql.Connection;
 import java.sql.DriverManager;
 
+/**
+ * this class implements the singleton design pattern to create a single connection with the database.
+ * 
+ * @author = CHERRADI Mohamed
+ * 
+ * @email = med1995cherradi@gmail.com
+ * 
+ */
+
 public class JDBCUtils {
 	
 	private static Connection connection;
